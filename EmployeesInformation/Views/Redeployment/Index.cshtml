@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Redeployment>
+
+<h2>Index</h2>
+@if (Model?.Any() ?? false)
+{
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Employee Id</th>
+            <th>From Department Id</th>
+            <th>To Department Id</th>
+            <th>From Position Id</th>
+            <th>To Position Id</th>
+            <th>Time</th>
+        </tr>
+    </table>
+    foreach (var r in Model)
+    {
+        <table>
+            <tr>
+                <th><p>@r.Id</p></th>
+                <th><p>@r.EmployeeID</p></th>
+                <th><p>@r.FromDepartmentID</p></th>
+                <th><p>@r.ToDepartmentID</p></th>
+                <th><p>@r.FromPositionID</p></th>
+                <th><p>@r.ToPositionID</p></th>
+                <th><p>@r.Time</p></th>
+                <td><p><a href="/Redeployment/Edit/@r.Id">Edit redeployment</a></p></td>
+            </tr>
+        </table>
+    }
+}
+
+@using (Html.BeginForm("Add", "Redeployment", FormMethod.Post))
+{
+    <p>
+        <label>Enter Employee Id:</label><br />
+        <input type="text" name="EmployeeID" />
+    </p>
+    <p>
+        <label>Enter From Department Id:</label><br />
+        <input type="text" name="FromDepartmentID" />
+    </p>
+    <p>
+        <label>Enter To Department Id:</label><br />
+        <input type="text" name="ToDepartmentID" />
+    </p>
+    <p>
+        <label>Enter FromPosition Id:</label><br />
+        <input type="text" name="FromPositionID" />
+    </p>
+    <p>
+        <label>Enter To PositionId:</label><br />
+        <input type="text" name="ToPositionID" />
+    </p>
+    <p>
+        <label>Enter time:</label><br />
+        <input type="text" name="Time" />
+    </p>
+    <p>
+        <input type="submit" value="Add a new redeployment" />
+    </p>
+}

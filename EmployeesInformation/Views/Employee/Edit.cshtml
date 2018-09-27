@@ -1,0 +1,61 @@
+﻿@Model Employee
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>LastName</th>
+        <th>FirstName</th>
+        <th>Patronymic</th>
+        <th>BirthDate</th>
+        <th>Salary</th>
+        <th>DepartmentID</th>
+        <th>PositionID</th>
+    </tr>
+    <tr>
+        <th><p>@Model.Id</p></th>
+        <th><p>@Model.LastName</p></th>
+        <th><p>@Model.FirstName</p></th>
+        <th><p>@Model.Patronymic</p></th>
+        <th><p>@Model.BirthDate</p></th>
+        <th><p>@Model.Salary</p></th>
+        <th><p>@Model.DepartmentID</p></th>
+        <th><p>@Model.PositionID</p></th>
+    </tr>
+</table>
+
+@using (Html.BeginForm("Edit", "Employee", FormMethod.Post))
+{
+<fieldset>
+    <p>
+        <label>Enter employee last name:</label><br />
+        <input type="text" name="LastName" />
+    </p>
+    <p>
+        <label>Enter employee first name:</label><br />
+        <input type="text" name="FirstName" />
+    </p>
+    <p>
+        <label>Enter employee patronymic:</label><br />
+        <input type="text" name="Patronymic" />
+    </p>
+    <p>
+        <label>Enter employee birthdate:</label><br />
+        <input type="text" name="Birthdate" />
+    </p>
+    <p>
+        <label>Enter employee salary:</label><br />
+        <input type="text" name="Salary" />
+    </p>
+    <p>
+        <label>Enter employee DepartmentID:</label><br />
+        <input type="text" name="DepartmentID" />
+    </p>
+    <p>
+        <label>Enter employee PositionID:</label><br />
+        <input type="text" name="PositionID" />
+    </p>
+    <p>
+    <input type="submit" value="Save Changes" />
+    </p>
+</fieldset>
+}

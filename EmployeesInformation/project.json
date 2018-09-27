@@ -1,0 +1,6 @@
+﻿{
+  "buildOptions": {
+    "preserveCompilationContext": true,
+    "emitEntryPoint": true
+  }
+}

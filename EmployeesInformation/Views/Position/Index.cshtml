@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Position>
+
+<h2>Index</h2>
+@if (Model?.Any() ?? false)
+{
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Position Name</th>
+        </tr>
+    </table>
+    foreach (var p in Model)
+    {
+        <table>
+            <tr>
+                <th><p>@p.Id</p></th>
+                <th><p>@p.Name</p></th>
+                <td><p><a href="/Position/Edit/@p.Id">Edit position</a></p></td>
+            </tr>
+        </table>
+    }
+}
+
+@using (Html.BeginForm("Add", "Position", FormMethod.Post))
+{
+    <p>
+        <label>Enter position name:</label><br />
+        <input type="text" name="Name" />
+    </p>
+    <p>
+        <input type="submit" value="Add a new position" />
+    </p>
+}

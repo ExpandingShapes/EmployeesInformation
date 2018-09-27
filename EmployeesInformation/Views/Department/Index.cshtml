@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Department>
+
+<h2>Index</h2>
+@if (Model?.Any() ?? false)
+{
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Department Name</th>
+        </tr>
+    </table>
+    foreach (var d in Model)
+    {
+    <table>
+        <tr>
+            <th><p>@d.Id</p></th>
+            <th><p>@d.Name</p></th>
+            <td><p><a href="/Department/Edit/@d.Id">Edit department</a></p></td>
+        </tr>
+    </table>
+    }
+}
+
+@using (Html.BeginForm("Add", "Department", FormMethod.Post))
+{
+    <p>
+        <label>Enter department name:</label><br />
+        <input type="text" name="Name" />
+    </p>
+    <p>
+        <input type="submit" value="Add a new department" />
+    </p>
+}

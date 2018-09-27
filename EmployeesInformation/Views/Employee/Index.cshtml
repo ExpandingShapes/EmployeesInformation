@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Employee>
+
+<h2>Index</h2>
+@if (Model?.Any() ?? false)
+{
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>LastName</th>
+            <th>FirstName</th>
+            <th>Patronymic</th>
+            <th>BirthDate</th>
+            <th>Salary</th>
+            <th>DepartmentID</th>
+            <th>PositionID</th>
+        </tr>
+    </table>
+    foreach (var e in Model)
+    {
+        <table>
+            <tr>
+                <th><p>@e.Id</p></th>
+                <th><p>@e.LastName</p></th>
+                <th><p>@e.FirstName</p></th>
+                <th><p>@e.Patronymic</p></th>
+                <th><p>@e.BirthDate</p></th>
+                <th><p>@e.Salary</p></th>
+                <th><p>@e.DepartmentID</p></th>
+                <th><p>@e.PositionID</p></th>
+                <td><p><a href="/Employee/Edit/@e.Id">Edit employee</a></p></td>
+            </tr>
+        </table>
+    }
+}
+
+@using (Html.BeginForm("Add", "Employee", FormMethod.Post))
+{
+    <p>
+        <label>Enter employee last name:</label><br />
+        <input type="text" name="LastName" />
+    </p>
+    <p>
+        <label>Enter employee first name:</label><br />
+        <input type="text" name="FirstName" />
+    </p>
+    <p>
+        <label>Enter employee patronymic:</label><br />
+        <input type="text" name="Patronymic" />
+    </p>
+    <p>
+        <label>Enter employee birthdate:</label><br />
+        <input type="text" name="Birthdate" />
+    </p>
+    <p>
+        <label>Enter employee salary:</label><br />
+        <input type="text" name="Salary" />
+    </p>
+    <p>
+        <label>Enter employee DepartmentID:</label><br />
+        <input type="text" name="DepartmentID" />
+    </p>
+    <p>
+        <label>Enter employee PositionID:</label><br />
+        <input type="text" name="PositionID" />
+    </p>
+    <p>
+        <input type="submit" value="Add a new employee" />
+    </p>
+}

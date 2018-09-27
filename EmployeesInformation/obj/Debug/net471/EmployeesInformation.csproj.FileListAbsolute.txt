@@ -1,0 +1,913 @@
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe.config
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.deps.json
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Antiforgery.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Core.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.CookiePolicy.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cors.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HostFiltering.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Extensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Features.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpOverrides.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.JsonPatch.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Localization.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Core.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Language.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.StaticFiles.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.WebUtilities.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Razor.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.DotNet.PlatformAbstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Memory.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Binder.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Json.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyModel.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Composite.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Physical.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Configuration.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Console.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Debug.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.ObjectPool.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Primitives.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.WebEncoders.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Net.Http.Headers.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Win32.Registry.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.Bson.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Buffers.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Collections.Immutable.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.ComponentModel.Annotations.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Diagnostics.DiagnosticSource.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.IO.Pipelines.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Memory.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Numerics.Vectors.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Reflection.Metadata.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.AccessControl.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Cng.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Xml.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Permissions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Principal.Windows.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Text.Encoding.CodePages.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Text.Encodings.Web.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Data.Common.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Diagnostics.Tracing.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Globalization.Extensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.IO.Compression.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Net.Http.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Net.Sockets.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.SecureString.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Threading.Overlapped.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csprojAssemblyReference.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe.config
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CoreCompileInputs.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorAssemblyInfo.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorAssemblyInfo.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfoInputs.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfo.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.TagHelpers.input.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.TagHelpers.output.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorCoreGenerate.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\About.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\Contact.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\Index.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\Error.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\_ViewImports.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\Razor\Views\_ViewStart.g.cshtml.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorTargetAssemblyInfo.cache
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorTargetAssemblyInfo.cs
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CopyComplete
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\dotnet-aspnet-codegenerator-design.exe
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\NuGet.Frameworks.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.AttributedModel.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.Convention.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.Hosting.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.Runtime.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.TypedParts.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Design.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Remotion.Linq.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Interactive.Async.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Data.SqlClient.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.pdb
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\netfx.force.conflicts.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Data.Common.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.StackTrace.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.Tracing.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Globalization.Extensions.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.IO.Compression.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Net.Http.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Net.Sockets.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Runtime.Serialization.Primitives.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Security.Cryptography.Algorithms.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Security.SecureString.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Threading.Overlapped.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Xml.XPath.XDocument.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.Views.dll
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.Views.pdb
+C:\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.Views.pdb
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe
+C:\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.pdb
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe.config
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.deps.json
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EmployeesInformation.pdb
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\netfx.force.conflicts.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Data.Common.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.StackTrace.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.Tracing.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Globalization.Extensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.IO.Compression.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Net.Http.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Net.Sockets.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Runtime.Serialization.Primitives.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Security.Cryptography.Algorithms.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Security.SecureString.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Threading.Overlapped.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\refs\System.Xml.XPath.XDocument.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Antiforgery.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cors.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HostFiltering.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Features.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.JsonPatch.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Localization.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Language.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.StaticFiles.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.WebUtilities.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Razor.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Design.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Memory.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Binder.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Json.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyModel.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Configuration.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Console.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Debug.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.ObjectPool.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Primitives.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.WebEncoders.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Net.Http.Headers.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\dotnet-aspnet-codegenerator-design.exe
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Microsoft.Win32.Registry.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.Bson.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\NuGet.Frameworks.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\Remotion.Linq.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Buffers.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Collections.Immutable.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.ComponentModel.Annotations.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.AttributedModel.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.Convention.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.Hosting.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.Runtime.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Composition.TypedParts.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Data.SqlClient.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Diagnostics.DiagnosticSource.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Interactive.Async.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.IO.Pipelines.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Memory.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Numerics.Vectors.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Reflection.Metadata.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.AccessControl.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Cng.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Xml.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Permissions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Principal.Windows.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Text.Encoding.CodePages.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Text.Encodings.Web.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Data.Common.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Diagnostics.Tracing.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Globalization.Extensions.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.IO.Compression.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Net.Http.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Net.Sockets.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Security.SecureString.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Threading.Overlapped.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csprojAssemblyReference.cache
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe.config
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CoreCompileInputs.cache
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfoInputs.cache
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfo.cs
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CopyComplete
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe
+D:\Novoe\EmployeesInformation\EmployeesInformation\obj\Debug\net471\EmployeesInformation.pdb
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EntityFramework.SqlServer.dll
+D:\Novoe\EmployeesInformation\EmployeesInformation\bin\Debug\net471\EntityFramework.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe.config
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.deps.json
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.pdb
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\netfx.force.conflicts.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Data.Common.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.StackTrace.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.Tracing.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Globalization.Extensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.IO.Compression.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Net.Http.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Net.Sockets.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Runtime.Serialization.Primitives.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Security.Cryptography.Algorithms.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Security.SecureString.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Threading.Overlapped.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Xml.XPath.XDocument.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.Views.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.Views.pdb
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EntityFramework.SqlServer.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\EntityFramework.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Antiforgery.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Core.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Connections.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.CookiePolicy.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cors.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HostFiltering.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Extensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Features.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpOverrides.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpsPolicy.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.JsonPatch.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Localization.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Core.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Language.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.StaticFiles.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.WebUtilities.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Razor.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.DotNet.PlatformAbstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Design.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Memory.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Binder.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Json.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyModel.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Composite.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Physical.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Configuration.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Console.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Debug.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.ObjectPool.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Primitives.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.WebEncoders.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Net.Http.Headers.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\dotnet-aspnet-codegenerator-design.exe
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Win32.Registry.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.Bson.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\NuGet.Frameworks.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\Remotion.Linq.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Buffers.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Collections.Immutable.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.ComponentModel.Annotations.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.AttributedModel.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.Convention.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.Hosting.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.Runtime.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.TypedParts.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Data.SqlClient.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Diagnostics.DiagnosticSource.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Interactive.Async.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.IO.Pipelines.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Memory.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Numerics.Vectors.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Reflection.Metadata.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.AccessControl.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Cng.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Xml.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Permissions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Principal.Windows.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Text.Encoding.CodePages.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Text.Encodings.Web.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Data.Common.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Diagnostics.Tracing.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Globalization.Extensions.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.IO.Compression.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Net.Http.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Net.Sockets.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Security.SecureString.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Threading.Overlapped.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csprojAssemblyReference.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe.config
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CoreCompileInputs.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorAssemblyInfo.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorAssemblyInfo.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfoInputs.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfo.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.TagHelpers.input.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.TagHelpers.output.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorCoreGenerate.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Department\Index.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Employee\Index.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\About.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\Contact.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\Index.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Home\Privacy.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Position\Index.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Redeployment\Index.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\Error.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\_Layout.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\_ViewImports.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\_ViewStart.g.cshtml.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorTargetAssemblyInfo.cache
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.RazorTargetAssemblyInfo.cs
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.Views.pdb
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CopyComplete
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe
+d:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.pdb
+D:\Для работы\Задание для проверкуи\версия4\EmployeesInformation\obj\Debug\net471\Razor\Views\Department\Edit.g.cshtml.cs
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csprojAssemblyReference.cache
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe.config
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CoreCompileInputs.cache
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfoInputs.cache
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfo.cs
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.pdb
+D:\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe.config
+D:\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.deps.json
+D:\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe
+D:\версия4\EmployeesInformation\bin\Debug\net471\EmployeesInformation.pdb
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\netfx.force.conflicts.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Data.Common.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.StackTrace.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.Tracing.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Globalization.Extensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.IO.Compression.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Net.Http.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Net.Sockets.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Runtime.Serialization.Primitives.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Security.Cryptography.Algorithms.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Security.SecureString.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Threading.Overlapped.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\refs\System.Xml.XPath.XDocument.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\EntityFramework.SqlServer.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\EntityFramework.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Antiforgery.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Core.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.CookiePolicy.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cors.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HostFiltering.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Extensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Features.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpOverrides.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.JsonPatch.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Localization.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Core.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Language.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.StaticFiles.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.WebUtilities.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Razor.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.DotNet.PlatformAbstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Design.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Relational.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Memory.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Binder.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Json.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyModel.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Composite.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Physical.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Abstractions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Configuration.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Console.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Debug.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.ObjectPool.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Primitives.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.WebEncoders.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Net.Http.Headers.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\dotnet-aspnet-codegenerator-design.exe
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Microsoft.Win32.Registry.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.Bson.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\NuGet.Frameworks.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\Remotion.Linq.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Buffers.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Collections.Immutable.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.ComponentModel.Annotations.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.AttributedModel.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.Convention.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.Hosting.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.Runtime.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Composition.TypedParts.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Data.SqlClient.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Diagnostics.DiagnosticSource.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Interactive.Async.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.IO.Pipelines.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Memory.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Numerics.Vectors.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Reflection.Metadata.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.AccessControl.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Cng.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Xml.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Permissions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Principal.Windows.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Text.Encoding.CodePages.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Text.Encodings.Web.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Data.Common.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Diagnostics.Tracing.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Globalization.Extensions.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.IO.Compression.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Net.Http.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Net.Sockets.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Security.SecureString.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Threading.Overlapped.dll
+D:\версия4\EmployeesInformation\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+D:\версия4\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CopyComplete
+D:\версия5\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe.config
+D:\версия5\EmployeesInformation\bin\Debug\net471\EmployeesInformation.deps.json
+D:\версия5\EmployeesInformation\bin\Debug\net471\EmployeesInformation.exe
+D:\версия5\EmployeesInformation\bin\Debug\net471\EmployeesInformation.pdb
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\netfx.force.conflicts.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Data.Common.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.StackTrace.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Diagnostics.Tracing.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Globalization.Extensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.IO.Compression.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Net.Http.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Net.Sockets.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Runtime.Serialization.Primitives.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Security.Cryptography.Algorithms.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Security.SecureString.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Threading.Overlapped.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\refs\System.Xml.XPath.XDocument.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\EntityFramework.SqlServer.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\EntityFramework.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Antiforgery.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authentication.Core.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.CookiePolicy.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cors.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HostFiltering.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Extensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Http.Features.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpOverrides.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.JsonPatch.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Localization.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Core.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Language.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.StaticFiles.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.AspNetCore.WebUtilities.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Razor.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.CodeAnalysis.Workspaces.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.DotNet.PlatformAbstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Design.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.Relational.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Caching.Memory.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Binder.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.Json.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.DependencyModel.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Composite.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileProviders.Physical.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Localization.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Abstractions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Configuration.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Console.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Logging.Debug.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.ObjectPool.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.Primitives.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Extensions.WebEncoders.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Net.Http.Headers.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\dotnet-aspnet-codegenerator-design.exe
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Microsoft.Win32.Registry.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Newtonsoft.Json.Bson.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\NuGet.Frameworks.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\Remotion.Linq.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Buffers.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Collections.Immutable.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.ComponentModel.Annotations.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Composition.AttributedModel.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Composition.Convention.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Composition.Hosting.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Composition.Runtime.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Composition.TypedParts.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Data.SqlClient.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Diagnostics.DiagnosticSource.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Interactive.Async.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.IO.Pipelines.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Memory.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Numerics.Vectors.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Reflection.Metadata.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Runtime.CompilerServices.Unsafe.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.AccessControl.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Cng.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Xml.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.Permissions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.Principal.Windows.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Text.Encoding.CodePages.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Text.Encodings.Web.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Threading.Tasks.Extensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Data.Common.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Diagnostics.StackTrace.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Diagnostics.Tracing.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Globalization.Extensions.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.IO.Compression.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Net.Http.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Net.Sockets.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Runtime.Serialization.Primitives.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.Cryptography.Algorithms.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Security.SecureString.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Threading.Overlapped.dll
+D:\версия5\EmployeesInformation\bin\Debug\net471\System.Xml.XPath.XDocument.dll
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csprojAssemblyReference.cache
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe.config
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CoreCompileInputs.cache
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfoInputs.cache
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.AssemblyInfo.cs
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.csproj.CopyComplete
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.exe
+D:\версия5\EmployeesInformation\obj\Debug\net471\EmployeesInformation.pdb

@@ -1,0 +1,24 @@
+﻿@Model Position
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Position Name</th>
+    </tr>
+    <tr>
+        <th><p>@Model.Id</p></th>
+        <th><p>@Model.Name</p></th>
+    </tr>
+</table>
+
+@using (Html.BeginForm("Edit", "Position", FormMethod.Post))
+{
+    <fieldset>
+        <p>
+            <label>Enter new name for the position</label>
+            <br />
+            <input type="text" name="Name" />
+        </p>
+        <p><input type="submit" value="Save Changes" /></p>
+    </fieldset>
+}
